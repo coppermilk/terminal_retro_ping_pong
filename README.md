@@ -1,3 +1,3 @@
 # terminal_retro_ping_pong
 My second1k+ line project.
-[[console.gif|simple console game]]
+![alt text](https://github.com/coppermilk/terminal_retro_ping_pong/blob/main/console.gif)
