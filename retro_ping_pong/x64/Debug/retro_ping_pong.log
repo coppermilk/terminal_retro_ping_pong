@@ -1,0 +1,3 @@
+﻿  retro_ping_pong.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1087,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть C:\Users\New\source\repos\retro_ping_pong\x64\Debug\retro_ping_pong.exe для записи
